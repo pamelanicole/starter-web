@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Maria Casingal	maria.p.casingal@accenture.com @NYim0922
 
 # THANKS
 
